@@ -446,6 +446,7 @@ footer {
   justify-content: center;
   align-items: center;
   gap: 25px;
+  margin-bottom: 2rem;
 }
 
 .social-links ion-icon {
